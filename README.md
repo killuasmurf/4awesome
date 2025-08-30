@@ -15,7 +15,8 @@ Google Review Data: Open datasets containing Google location reviews (e.g., Goog
 # Steps & Task Split
 
 ## How to Navigate Through Our ML Pipeline
-In the [Google Drive folder](https://drive.google.com/drive/folders/1DiM0XhLP2lDE6daKbU0Pko-RVH0KjDrA?usp=drive_link), we have a step 0 file to load the data, and the following 6 steps in separate notebooks to carry out different functions.
+In the [Google Drive folder](https://drive.google.com/drive/folders/1DiM0XhLP2lDE6daKbU0Pko-RVH0KjDrA?usp=drive_link), we have a step 0 file to load the data, and the following 6 steps in separate ipynb notebooks to carry out different functions.
+<img width="1571" height="809" alt="image" src="https://github.com/user-attachments/assets/7ebb825a-959d-40ad-a23d-a06c394c61d2" />
 
 ---
 
