@@ -15,7 +15,7 @@ Google Review Data: Open datasets containing Google location reviews (e.g., Goog
 # Steps & Task Split
 
 ## How to Navigate Through Our ML Pipeline
-In the [Google Drive folder](https://drive.google.com/drive/folders/1DiM0XhLP2lDE6daKbU0Pko-RVH0KjDrA?usp=drive_link), we have a step 0 file to load the data, and the following 6 steps in separate files to carry out different functions.
+In the [Google Drive folder](https://drive.google.com/drive/folders/1DiM0XhLP2lDE6daKbU0Pko-RVH0KjDrA?usp=drive_link), we have a step 0 file to load the data, and the following 6 steps in separate notebooks to carry out different functions.
 
 ---
 
